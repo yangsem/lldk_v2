@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+compile_commands.json
+.cache
+
+.vscode
+
+build
+bin
